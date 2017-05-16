@@ -1,6 +1,4 @@
-%% Code written by Harshit Agrawal
-
-
+% Code written by Harshit Agrawal
 %% Part-1 Calculation of measures
 
 load('macaque71.mat')
